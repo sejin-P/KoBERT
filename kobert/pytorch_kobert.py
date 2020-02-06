@@ -44,7 +44,8 @@ bert_config = {
     'num_attention_heads': 12,
     'num_hidden_layers': 12,
     'type_vocab_size': 2,
-    'vocab_size': 8002
+    'vocab_size': 8002,
+    'output_hidden_states':True
 }
 
 
